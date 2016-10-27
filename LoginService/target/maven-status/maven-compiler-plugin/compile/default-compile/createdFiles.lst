@@ -1,0 +1,6 @@
+com\emirates\cds\login\LoginController.class
+com\emirates\cds\login\Application.class
+com\emirates\cds\login\LoginResponse.class
+com\emirates\cds\login\UserDetail.class
+com\emirates\cds\login\dao\LoginDAO.class
+com\emirates\cds\login\service\LoginService.class
